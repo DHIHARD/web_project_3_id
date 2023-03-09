@@ -8,20 +8,3 @@
   margin-bottom: 26px;
   grid-area: website;
 }
-
-@media screen and (min-width: 768px) and (max-width: 1280px) {
-  .place__website {
-    height: 67px;
-    width: 309px;
-    justify-content: flex-start;
-    margin-bottom: 24px;
-  }
-}
-
-@media screen and (min-width: 320px) and (max-width: 768px) {
-  .place__website {
-    margin: 0 auto;
-    width: auto;
-    height: auto;
-  }
-}

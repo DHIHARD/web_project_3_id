@@ -8,19 +8,3 @@
   color: #fff;
   margin: 0 412px 16px 148px;
 }
-@media screen and (min-width: 768px) and (max-width: 1280px) {
-  .intro__text_content-author {
-    margin: 0 auto 21px auto;
-  }
-}
-
-@media screen and (min-width: 320px) and (max-width: 768px) {
-  .intro__text_content-author {
-    height: 34px;
-    width: 288px;
-    margin: 0 auto 30px auto;
-    font-size: 20px;
-    font-weight: 400;
-    line-height: 1.7;
-  }
-}
