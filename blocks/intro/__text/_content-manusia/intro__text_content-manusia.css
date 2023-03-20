@@ -1,13 +1,13 @@
 .intro__text_content-manusia {
   width: 758px;
   height: 130px;
-  margin: 40px 374px 8px 148px;
+  margin: 40px 374px 0 148px;
 }
 
 @media screen and (min-width: 767px) and (max-width: 1279px) {
   .intro__text_content-manusia  {
     width: 720px;
-    height: 130px;
+    height: 120px;
     margin: 0 auto;
   }
 }
@@ -15,9 +15,9 @@
 @media screen and (min-width: 320px) and (max-width: 767px) {
   .intro__text_content-manusia  {
     width: 288px;
-    height: 300px;
+    height: 250px;
     font-size: 20px;
     line-height: 150%;
-    margin: 0 auto;
+    margin: 5px auto 0;
   }
 }

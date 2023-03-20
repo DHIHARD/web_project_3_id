@@ -2,7 +2,7 @@
   margin: 90px auto 92px auto;
 }
 
-@media screen and (min-width: 767px) and (max-width: 1279px) {
+@media screen and (min-width: 1132px) and (max-width: 1279px) {
   .lead {
     margin-bottom: 88px;
   }

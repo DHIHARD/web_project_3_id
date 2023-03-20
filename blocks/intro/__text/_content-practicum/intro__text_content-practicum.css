@@ -11,7 +11,7 @@
 
 @media screen and (min-width: 767px) and (max-width: 1279px) {
   .intro__text_content-practicum {
-    margin: 0 auto;
+    margin: 21px auto 0;
   }
 }
 
@@ -20,6 +20,6 @@
     width: 288px;
     height: 432px;
     font-size: 15px;
-    margin: 0 auto;
+    margin: 30px auto 0;
   }
 }
