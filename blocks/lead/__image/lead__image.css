@@ -8,30 +8,30 @@
 
 @media only screen and (min-device-width: 1025px) and (max-device-width: 1279px) {
   .lead__image {
-      width: 928px;
-      height: 580px;
+    width: 928px;
+    height: 580px;
   }
 }
 
 @media only screen and (min-device-width: 769px) and (max-device-width: 1023px) {
   .lead__image {
-      width: 100%;  
-      height: 100%;  
+    width: 100%;
+    height: 100%;
   }
 }
 
 @media only screen and (min-device-width: 321px) and (max-device-width: 768px) {
   .lead__image {
-      width: 100vw;  
-      height: 100%;      
-      margin-top: 40px;
+    width: 100vw;
+    height: 100%;
+    margin-top: 40px;
   }
 }
 
 @media screen and (max-device-width: 320px) {
   .lead__image {
-      width: 320px;  
-      height: 200px;      
-      margin-top: 40px;
+    width: 320px;
+    height: 200px;
+    margin-top: 40px;
   }
 }
