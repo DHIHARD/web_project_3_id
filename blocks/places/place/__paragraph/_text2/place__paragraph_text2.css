@@ -13,11 +13,13 @@
 
 @media screen and (min-width: 767px) and (max-width: 1279px) {
   .place__paragraph_text2:nth-child(1) {
-    height: 260px;
+    height: 227px;
     width: 352px;
     font-size: 16px;
     line-height: 26.08px;
+    margin-top: 30px;
   }
+  
   .place__paragraph_text2:nth-child(2) {
     height: 286px;
     width: 352px;
