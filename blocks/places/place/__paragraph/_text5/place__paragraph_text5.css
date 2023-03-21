@@ -67,3 +67,73 @@
     margin: 0 16px 26px;
   }
 }
+
+.place-bengkulu__paragraph_text5 {
+  font-size: 17px;
+}
+
+.place-bengkulu__paragraph_text5:nth-child(1) {
+  margin-top: 0;
+}
+
+.place-bengkulu__paragraph_text5:nth-child(2) {
+  margin-top: 0;
+}
+
+.place-bengkulu__paragraph_text5:nth-child(3) {
+  margin-top: 0;
+}
+
+@media screen and (min-width: 767px) and (max-width: 1279px) {
+  .place-bengkulu__paragraph_text5:nth-child(1) {
+    height: 250px;
+    width: 352px;
+    font-size: 16px;
+    line-height: 26.08px;
+  }
+  .place-bengkulu__paragraph_text5:nth-child(2) {
+    height: 235px;
+    width: 352px;
+    font-size: 16px;
+    line-height: 1.6;
+  }
+
+  .place-bengkulu__paragraph_text5:nth-child(3) {
+    height: 286px;
+    width: 352px;
+    font-size: 16px;
+    line-height: 1.6;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .place-bengkulu__paragraph_text5:nth-child(1) {
+    height: 260px;
+    width: 288px;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.6;
+    text-align: left;
+    margin: 30px 16px 0;
+  }
+
+  .place-bengkulu__paragraph_text5:nth-child(2) {
+    height: 288px;
+    width: 288px;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.6;
+    text-align: left;
+    margin: 35px 16px 0;
+  }
+
+  .place-bengkulu__paragraph_text5:nth-child(3) {
+    height: 100px;
+    width: 288px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.6;
+    text-align: left;
+    margin: 0 16px 26px;
+  }
+}
